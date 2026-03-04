@@ -1,1 +1,2 @@
-# Policy_Target_RegimeSwitchingPersistence
+# Policy Target Regime-Switching Persistence
+# Reference Country: Japan
